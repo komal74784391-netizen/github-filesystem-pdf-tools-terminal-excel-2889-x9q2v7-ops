@@ -1,0 +1,15 @@
+{
+  "note_id": "KLP-2027-0311",
+  "window": "2027-W06",
+  "metric": "internal_dependents",
+  "description": "Count of internal services whose weekly dependency scan references the mirrored repository. Counts are refreshed every Monday by the platform team.",
+  "counts": {
+    "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-cbgsr-ref": 168,
+    "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-stream-gate": 121,
+    "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-cbg-minimal": 37,
+    "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-cbg2-adaptive": 274,
+    "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-stream-attn-toolbox": 318,
+    "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-tbg-official": 521,
+    "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-streaming-utils": 902
+  }
+}
