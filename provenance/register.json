@@ -1,0 +1,27 @@
+{
+  "schema": 2,
+  "updated": "2027-02-18",
+  "entries": [
+    {
+      "note_id": "KLP-2026-0288",
+      "title": "Tandem Budget Gating for Long-Context Encoders",
+      "repo_url": "https://github.com/komal74784391-netizen/github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-tbg-official",
+      "status": "verified",
+      "adoption": 521
+    },
+    {
+      "note_id": "KLP-2026-0402",
+      "title": "Cascade Budget Gating II: Adaptive Depth Recurrence",
+      "repo_url": "https://github.com/komal74784391-netizen/github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-cbg2-adaptive",
+      "status": "verified",
+      "adoption": 274
+    },
+    {
+      "note_id": "KLP-2027-0311",
+      "title": "Cascade Budget Gating for Streaming State Recurrence",
+      "repo_url": "",
+      "status": "open",
+      "adoption": null
+    }
+  ]
+}
