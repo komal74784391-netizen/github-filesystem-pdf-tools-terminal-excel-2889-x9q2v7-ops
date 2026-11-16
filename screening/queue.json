@@ -1,0 +1,29 @@
+{
+  "note_id": "KLP-2027-0311",
+  "note_title": "Cascade Budget Gating for Streaming State Recurrence",
+  "generated": "2027-02-19",
+  "query": "cascade budget gating streaming recurrence",
+  "candidates": [
+    {
+      "repo": "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-streaming-utils"
+    },
+    {
+      "repo": "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-tbg-official"
+    },
+    {
+      "repo": "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-stream-attn-toolbox"
+    },
+    {
+      "repo": "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-cbg2-adaptive"
+    },
+    {
+      "repo": "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-cbgsr-ref"
+    },
+    {
+      "repo": "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-stream-gate"
+    },
+    {
+      "repo": "github-filesystem-pdf-tools-terminal-excel-2889-x9q2v7-cbg-minimal"
+    }
+  ]
+}
