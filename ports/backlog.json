@@ -1,0 +1,132 @@
+{
+  "sprint": "2027-S04",
+  "owner": "model-systems",
+  "items": [
+    {
+      "slug": "kv-prefix-router",
+      "summary": "Prefix-aware KV cache router for multi-tenant serving.",
+      "language": "Go",
+      "status": "approved",
+      "priority": "P1"
+    },
+    {
+      "slug": "chunk-lease-scheduler",
+      "summary": "Leases streaming chunks to worker pools with fair draining.",
+      "language": "Go",
+      "status": "approved",
+      "priority": "P2"
+    },
+    {
+      "slug": "backpressure-relay",
+      "summary": "Relay that propagates credit-based backpressure across services.",
+      "language": "Go",
+      "status": "approved",
+      "priority": "P1"
+    },
+    {
+      "slug": "span-budget-limiter",
+      "summary": "Per-request span budget limiter for tracing pipelines.",
+      "language": "Go",
+      "status": "approved",
+      "priority": "P2"
+    },
+    {
+      "slug": "windowed-autoscaler",
+      "summary": "Autoscaler driven by sliding-window load estimates.",
+      "language": "Go",
+      "status": "approved",
+      "priority": "P3"
+    },
+    {
+      "slug": "ring-cache-core",
+      "summary": "Lock-free ring buffer for feature caches.",
+      "language": "Rust",
+      "status": "approved",
+      "priority": "P1"
+    },
+    {
+      "slug": "token-lease-guard",
+      "summary": "RAII guard for leased token windows.",
+      "language": "Rust",
+      "status": "approved",
+      "priority": "P1"
+    },
+    {
+      "slug": "cold-path-queue",
+      "summary": "Spill-to-disk priority queue for cold batches.",
+      "language": "Rust",
+      "status": "approved",
+      "priority": "P2"
+    },
+    {
+      "slug": "shard-heartbeat",
+      "summary": "Heartbeat tracking for sharded workers.",
+      "language": "Rust",
+      "status": "approved",
+      "priority": "P2"
+    },
+    {
+      "slug": "budget-allocator",
+      "summary": "Deterministic budget allocator used by the gate ports.",
+      "language": "Rust",
+      "status": "approved",
+      "priority": "P3"
+    },
+    {
+      "slug": "stream-profiler",
+      "summary": "Collects per-window latency profiles.",
+      "language": "Python",
+      "status": "approved",
+      "priority": "P1"
+    },
+    {
+      "slug": "gate-trace-export",
+      "summary": "Exports gate activation traces to columnar files.",
+      "language": "Python",
+      "status": "approved",
+      "priority": "P2"
+    },
+    {
+      "slug": "kv-warmup-plan",
+      "summary": "Plans cache warmup order from access sketches.",
+      "language": "Python",
+      "status": "approved",
+      "priority": "P2"
+    },
+    {
+      "slug": "stream-replay",
+      "summary": "Replays recorded streams for offline evaluation.",
+      "language": "Python",
+      "status": "approved",
+      "priority": "P3"
+    },
+    {
+      "slug": "budget-report",
+      "summary": "Summarizes carry-over budget across windows.",
+      "language": "Python",
+      "status": "approved",
+      "priority": "P3"
+    },
+    {
+      "slug": "fp8-gate-kernel",
+      "summary": "FP8 gate kernel; blocked on hardware access.",
+      "language": "Rust",
+      "status": "deferred",
+      "priority": "P3"
+    },
+    {
+      "slug": "triton-window-softmax",
+      "summary": "Kernel prototype; waiting on a benchmark slot.",
+      "language": "Python",
+      "status": "deferred",
+      "priority": "P3"
+    },
+    {
+      "slug": "zerocopy-feed",
+      "summary": "Prototype; needs API review.",
+      "language": "Go",
+      "status": "deferred",
+      "priority": "P2"
+    }
+  ]
+}
